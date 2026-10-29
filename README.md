@@ -1,6 +1,6 @@
 # Systems, Intelligence & Defence Technology
 
-I'm an independent developer and technology enthusiast interested in the intersection of **systems engineering, communications, intelligence, and defence technology**.
+I independently explore and build technical projects at the intersection of **systems engineering, communications, intelligence, and defence technology**.
 
 My projects explore resilient architectures, hardware integration, telemetry, and operational software, with a broader interest in how technical systems collect, process, and distribute information across complex and potentially disconnected environments.
 
