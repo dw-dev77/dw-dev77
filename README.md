@@ -1,26 +1,26 @@
 # Systems, Intelligence & Defence Technology
 
-I independently explore and build technical projects at the intersection of **systems engineering, communications, intelligence, and defence technology**.
+I independently develop and explore technical projects across systems engineering, communications, intelligence, and defence technology.
 
-My projects explore resilient architectures, hardware integration, telemetry, and operational software, with a broader interest in how technical systems collect, process, and distribute information across complex and potentially disconnected environments.
+My work focuses on resilient system architectures, hardware integration, telemetry, operational software, and information exchange across interconnected and potentially disconnected environments.
 
-I'm particularly interested in the technology behind **command and control (C2), intelligence, surveillance and reconnaissance (ISR), tactical communications, unmanned aircraft systems (UAS/sUAS), and situational awareness**. This includes exploring the TAK ecosystem and developing practical solutions around operational information exchange, alongside independent experimentation with communications and telemetry systems.
+My areas of technical interest include **Command & Control (C2), Intelligence, Surveillance & Reconnaissance (ISR), tactical communications, unmanned aircraft systems (UAS/sUAS), and situational awareness**.
 
 ## Selected Projects
 
-- **[PACE Security Architecture](https://github.com/dw-dev77/PACE-Security-Architecture)** — Systems architecture exploring resilience, redundancy, failure handling, and recovery.
-- **[SPECTRS](https://github.com/dw-dev77/SPECTRS)** — An experimental communications and telemetry framework exploring hardware integration, signal awareness, and potential capabilities for resilient operations.
-- **[ATAK reports templates](https://github.com/dw-dev77/ATAK-reports-templates)** — Independent work developing structured reporting templates and exploring operational information exchange within the TAK ecosystem.
+- [**PACE Security Architecture**](https://github.com/dw-dev77/PACE-Security-Architecture) — Systems architecture exploring resilience, redundancy, failure handling, and recovery.
+- [**SPECTRS**](https://github.com/dw-dev77/SPECTRS) — Experimental communications and telemetry framework exploring hardware integration, signal awareness, and resilient operations.
+- [**ATAK Reports Templates**](https://github.com/dw-dev77/ATAK-reports-templates) — XML-based operational reporting templates for ATAK and WinTAK, covering established reporting formats and purpose-built reporting requirements.
 
-## Areas of Interest
+## Technical Interests
 
-- **Systems Engineering & Resilience:** Fault tolerance, redundancy, recovery, and operation under degraded conditions.
-- **Communications & Networking:** Hardware integration, telemetry, connectivity, and resilient communications.
-- **Intelligence, Surveillance & Reconnaissance:** Information collection, signal awareness, data interpretation, and systems that help turn observations into actionable understanding.
-- **Unmanned Aircraft Systems:** UAS/sUAS technology, sensing, integration with situational awareness platforms, and the communications and data links that support unmanned systems.
-- **Command & Control:** Information exchange, operational coordination, and maintaining a shared operational picture.
-- **Defence & Operational Technology:** The intersection of software, infrastructure, sensing, and real-world operational requirements.
+- **Systems Engineering:** Resilience, fault tolerance, redundancy, and recovery architectures.
+- **Communications & Networking:** Network infrastructure, hardware integration, telemetry, and resilient connectivity.
+- **Intelligence & Situational Awareness:** Information collection, OSINT, signal awareness, and data interpretation.
+- **UAS & C-UAS:** Unmanned systems, sensing, communications, and integration with situational awareness platforms.
+- **Command & Control:** Operational information exchange, reporting structures, and shared situational awareness.
+- **Defence Technology:** The intersection of software, infrastructure, sensing, and operational requirements.
 
-I enjoy investigating unfamiliar technical problems, working within hardware and software constraints, and turning ideas into practical implementations. My repositories document an ongoing process of experimentation and development, driven by an interest in how complex systems function, interact, and remain useful when conditions are less than ideal.
+I enjoy investigating unfamiliar technical problems, understanding how complex systems interact, and translating concepts into practical implementations.
 
-*Projects and technical explorations presented here are independent work, developed alongside my ongoing learning.*
+*All projects and technical explorations presented here are independent work, developed alongside my ongoing learning.*
