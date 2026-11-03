@@ -1,26 +1,22 @@
 # Systems, Intelligence & Defence Technology
 
-I independently develop and explore technical projects across systems engineering, communications, intelligence, and defence technology.
+I explore technical systems and operational technologies, with a focus on resilience, communications, intelligence, and situational awareness.
 
-My work focuses on resilient system architectures, hardware integration, telemetry, operational software, and information exchange across interconnected and potentially disconnected environments.
-
-My areas of technical interest include **Command & Control (C2), Intelligence, Surveillance & Reconnaissance (ISR), tactical communications, unmanned aircraft systems (UAS/sUAS), and situational awareness**.
+My interests include **Command & Control (C2), Intelligence, Surveillance & Reconnaissance (ISR), tactical communications, unmanned systems, and cybersecurity**.
 
 ## Selected Projects
 
-- [**PACE Security Architecture**](https://github.com/dw-dev77/PACE-Security-Architecture) — Systems architecture exploring resilience, redundancy, failure handling, and recovery.
-- [**SPECTRS**](https://github.com/dw-dev77/SPECTRS) — Experimental communications and telemetry framework exploring hardware integration, signal awareness, and resilient operations.
-- [**ATAK Reports Templates**](https://github.com/dw-dev77/ATAK-reports-templates) — XML-based operational reporting templates for ATAK and WinTAK, covering established reporting formats and purpose-built reporting requirements.
+- [**PACE Security Architecture**](https://github.com/dw-dev77/PACE-Security-Architecture) — A systems architecture exploring resilience, redundancy, failure handling, and recovery.
+- [**SPECTRS**](https://github.com/dw-dev77/SPECTRS) — An experimental communications and telemetry framework exploring hardware integration, signal awareness, and resilient operations.
+- [**ATAK Reports Templates**](https://github.com/dw-dev77/ATAK-reports-templates) — A collection of XML-based operational reporting templates for ATAK, including established reporting formats and purpose-built templates.
 
-## Technical Interests
+## Areas of Interest
 
-- **Systems Engineering:** Resilience, fault tolerance, redundancy, and recovery architectures.
-- **Communications & Networking:** Network infrastructure, hardware integration, telemetry, and resilient connectivity.
-- **Intelligence & Situational Awareness:** Information collection, OSINT, signal awareness, and data interpretation.
-- **UAS & C-UAS:** Unmanned systems, sensing, communications, and integration with situational awareness platforms.
-- **Command & Control:** Operational information exchange, reporting structures, and shared situational awareness.
-- **Defence Technology:** The intersection of software, infrastructure, sensing, and operational requirements.
+- **Systems & Infrastructure:** Resilience, fault tolerance, network infrastructure, and system recovery.
+- **Communications:** Tactical communications, telemetry, connectivity, and information exchange.
+- **Intelligence & Situational Awareness:** OSINT, information collection, analysis, and operational reporting.
+- **C2 & Defence Technology:** Command and control systems, UAS/C-UAS, and integration of operational technologies.
 
-I enjoy investigating unfamiliar technical problems, understanding how complex systems interact, and translating concepts into practical implementations.
+I enjoy investigating unfamiliar technical problems, understanding how systems interact, and translating concepts into practical solutions.
 
-*All projects and technical explorations presented here are independent work, developed alongside my ongoing learning.*
+*Projects and technical explorations presented here represent independent work and ongoing learning.*
