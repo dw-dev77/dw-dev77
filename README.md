@@ -1,6 +1,6 @@
-# Systems, Intelligence & Defence Technology
+# Systems, Intelligence & Defense Technology
 
-My interests centre on technical systems and operational technologies, particularly **resilience**, **communications** and **situational awareness**, with a focus on **Command & Control (C2)**, **Intelligence**, **Surveillance & Reconnaissance (ISR)**, **tactical communications**, **unmanned systems**, and **cybersecurity**.
+My interests center on technical systems and operational technologies, particularly **resilience**, **communications** and **situational awareness**, with a focus on **Command & Control (C2)**, **Intelligence**, **Surveillance & Reconnaissance (ISR)**, **tactical communications**, **unmanned systems**, and **cybersecurity**.
 
 ## Selected Projects
 
