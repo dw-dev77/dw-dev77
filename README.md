@@ -1,8 +1,6 @@
 # Systems, Intelligence & Defence Technology
 
-I explore technical systems and operational technologies, with a focus on resilience, communications, intelligence, and situational awareness.
-
-My interests include **Command & Control (C2), Intelligence, Surveillance & Reconnaissance (ISR), tactical communications, unmanned systems, and cybersecurity**.
+My interests centre on technical systems and operational technologies, particularly **resilience**, **communications** and **situational awareness**, with a focus on **Command & Control (C2)**, **Intelligence**, **Surveillance & Reconnaissance (ISR)**, **tactical communications**, **unmanned systems**, and **cybersecurity**.
 
 ## Selected Projects
 
@@ -15,7 +13,7 @@ My interests include **Command & Control (C2), Intelligence, Surveillance & Reco
 - **Systems & Infrastructure:** Resilience, fault tolerance, network infrastructure, and system recovery.
 - **Communications:** Tactical communications, telemetry, connectivity, and information exchange.
 - **Intelligence & Situational Awareness:** OSINT, information collection, analysis, and operational reporting.
-- **C2 & Defence Technology:** Command and control systems, UAS/C-UAS, and integration of operational technologies.
+- **C2 & Defense Technology:** Command and control systems, UAS/C-UAS, and integration of operational technologies.
 
 I enjoy investigating unfamiliar technical problems, understanding how systems interact, and translating concepts into practical solutions.
 
